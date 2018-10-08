@@ -1,0 +1,22 @@
+C:\Users\Sylux\Documents\School 2016\CECS 596\ReportingTool\VSSOLUTION\ExcelParser\bin\Debug\ExcelParser.dll
+C:\Users\Sylux\Documents\School 2016\CECS 596\ReportingTool\VSSOLUTION\ExcelParser\bin\Debug\ExcelParser.pdb
+C:\Users\Sylux\Documents\School 2016\CECS 596\ReportingTool\VSSOLUTION\ExcelParser\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Sylux\Documents\School 2016\CECS 596\ReportingTool\VSSOLUTION\ExcelParser\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Sylux\Documents\School 2016\CECS 596\ReportingTool\VSSOLUTION\ExcelParser\obj\Debug\ExcelParser.csprojResolveAssemblyReference.cache
+C:\Users\Sylux\Documents\School 2016\CECS 596\ReportingTool\VSSOLUTION\ExcelParser\obj\Debug\ExcelParser.dll
+C:\Users\Sylux\Documents\School 2016\CECS 596\ReportingTool\VSSOLUTION\ExcelParser\obj\Debug\ExcelParser.pdb
+C:\Users\Micah\Documents\cecs596\VSSOLUTION\ExcelParser\bin\Debug\ExcelParser.dll.config
+C:\Users\Micah\Documents\cecs596\VSSOLUTION\ExcelParser\bin\Debug\ExcelParser.dll
+C:\Users\Micah\Documents\cecs596\VSSOLUTION\ExcelParser\bin\Debug\ExcelParser.pdb
+C:\Users\Micah\Documents\cecs596\VSSOLUTION\ExcelParser\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Micah\Documents\cecs596\VSSOLUTION\ExcelParser\bin\Debug\EntityFramework.dll
+C:\Users\Micah\Documents\cecs596\VSSOLUTION\ExcelParser\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Micah\Documents\cecs596\VSSOLUTION\ExcelParser\bin\Debug\System.Data.SQLite.dll
+C:\Users\Micah\Documents\cecs596\VSSOLUTION\ExcelParser\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Micah\Documents\cecs596\VSSOLUTION\ExcelParser\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Micah\Documents\cecs596\VSSOLUTION\ExcelParser\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Micah\Documents\cecs596\VSSOLUTION\ExcelParser\bin\Debug\EntityFramework.xml
+C:\Users\Micah\Documents\cecs596\VSSOLUTION\ExcelParser\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Micah\Documents\cecs596\VSSOLUTION\ExcelParser\bin\Debug\System.Data.SQLite.xml
+C:\Users\Micah\Documents\cecs596\VSSOLUTION\ExcelParser\obj\Debug\ExcelParser.dll
+C:\Users\Micah\Documents\cecs596\VSSOLUTION\ExcelParser\obj\Debug\ExcelParser.pdb
